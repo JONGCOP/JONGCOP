@@ -150,21 +150,20 @@ you can find me on github blog or on linkedin<br>
   
 <div align=center>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongcop&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 
 </div>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JONGCOP
-&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGCOP&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jongcop&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongcop&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 </a></p>
 
 <p align = "center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BumBall-Maker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jongcop&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
  <br></br>
- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=BumBall-Maker&theme=redical">
+ <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=Jongcop&theme=redical">
 </p> 
 
 ---
