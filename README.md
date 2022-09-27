@@ -1,6 +1,7 @@
 <div style="heght:100%; weight:100%; background-color: white">
 
-![giphy_pixeel](https://user-images.githubusercontent.com/105025978/192521931-19d00d30-ba56-426b-9160-293e8816cf95.gif)
+<div> <img src = https://user-images.githubusercontent.com/105025978/192521931-19d00d30-ba56-426b-9160-293e8816cf95.gif
+style="width: 1100px; height: 500px;"> </div>
 
 ---
 
