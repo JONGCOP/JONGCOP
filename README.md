@@ -156,8 +156,9 @@ you can find me on github blog or on linkedin<br>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BumBall-Maker&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBall-Maker&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JONGCOP
+&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONGCOP&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 </a></p>
 
 <p align = "center">
