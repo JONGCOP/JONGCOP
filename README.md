@@ -155,10 +155,10 @@ you can find me on github blog or on linkedin<br>
 </div>
 
 <p align = center>
- <a href="https://bumball-maker.github.io/">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jongcop&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jongcop&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
-</a></p>
+</p>
 
 <p align = "center">
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jongcop&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
