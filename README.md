@@ -4,7 +4,7 @@
 
 ---
 
-# Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 This is SeungBin Nam and I'm Unity Developer & Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
 I like to learn and I like to try new things<br>
 But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
