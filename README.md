@@ -4,10 +4,7 @@
 style="width: 1100px; height: 500px;"> </div>
 
 ---
-<div align="center">
   # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</div>
-출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
 Hello, I'm Jong-hyun Sung, a game developer from Republic of Korea.<br>
 My goal is to provide fun content to people.<br>
 But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
