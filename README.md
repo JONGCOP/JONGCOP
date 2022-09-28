@@ -92,13 +92,13 @@ you can find me on github blog or on linkedin<br>
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/105025978/192757809-66c0ab9b-81c1-44dc-8fd7-277eaf0122a8.png" width="48" height="48" alt="PremierPro" />
       </a>
-      <br>Adobe&nbsp;PremierPro
+      <br>Adobe<br>PremierPro
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/105025978/192757901-8ee07d3a-b109-4c28-9472-896a5c347d24.png" width="48" height="48" alt="AfterEffect" />
       </a>
-      <br>Adobe&nbsp;AfterEffect
+      <br>Adobe<br>AfterEffect
     </td>
 </table>
 
