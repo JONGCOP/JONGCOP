@@ -5,13 +5,13 @@ style="width: 1100px; height: 500px;"> </div>
 
 ---
   # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hello, I'm Jong-hyun Sung, a game developer from Republic of Korea.<br>
+Hello, I'm Jong-hyun Sung, a game developer and Contents Creator from Republic of Korea.<br>
 My goal is to provide fun content to people.<br>
 But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
 you can find me on github blog or on linkedin<br>
 
 <p align="center">
-  <a href="mailto:atoez45@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/105025978/192720960-39ec444c-db0c-444b-9645-87da50176a4f.png"/></a>
+  <a href="mailto:atoez45@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   <a href="https://www.notion.so/My_Profile-d2608ff839c144e6b4b8bc7ca5a11503"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/105025978/192720372-570813fe-47d2-436f-aab0-c3c259e71ac6.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
