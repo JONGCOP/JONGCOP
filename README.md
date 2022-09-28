@@ -11,11 +11,11 @@ But at the same time, I want to create a program that is more complete than crea
 you can find me on github blog or on linkedin<br>
 
 <p align="center">
-  <a href="mailto:atoez45@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
+  <a href="mailto:atoez45@gmail.com"><img width="40px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.notion.so/My_Profile-d2608ff839c144e6b4b8bc7ca5a11503"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/105025978/192720372-570813fe-47d2-436f-aab0-c3c259e71ac6.png"></a>
+  <a href="https://www.notion.so/My_Profile-d2608ff839c144e6b4b8bc7ca5a11503"><img width="40px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/105025978/192720372-570813fe-47d2-436f-aab0-c3c259e71ac6.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCl8VdIgDf6ym-TSLcGaH4AA"><img width="32px" alt="YouTube" title="YouTube" src="https://user-images.githubusercontent.com/105025978/192722988-8bbbbd5a-0cbb-409c-af81-7b0656d97d45.png"></a>
+  <a href="https://www.youtube.com/channel/UCl8VdIgDf6ym-TSLcGaH4AA"><img width="45px" alt="YouTube" title="YouTube" src="https://user-images.githubusercontent.com/105025978/192734460-2ae45894-0ee1-4019-90ab-8c8cac6262dc.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -27,78 +27,22 @@ you can find me on github blog or on linkedin<br>
 <table align=center>
   <tr>
     <td align="center" width="96">
-      <a href="# Technology Stacks">
-        <img src="https://user-images.githubusercontent.com/87287709/191904241-efa0a022-329e-42e8-b7ce-6a2f22975f2b.svg" width="48" height="48" alt="HTML5" />
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192744022-50d4892a-95c5-4d75-a814-626631120b17.png" width="48" height="48" alt="C" />
       </a>
-      <br>HTML5
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
+        <img src="https://user-images.githubusercontent.com/105025978/192744987-814701e2-e881-4a14-9a38-4aa15dd86bd1.png" width="64" height="64" alt="C++" />
       </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/87287709/191778468-58f092e8-2de5-40cf-ae6e-0b58dcd02afe.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Unity)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191779855-988a2391-ed29-4f1f-89a9-ab710fa059ea.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191779459-c00dbfd1-e98a-4257-88ee-47d2d052eb6f.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191904318-50d57939-bf1e-45a0-b4b9-c6dc8fc03040.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191899620-f2f8b65f-08c8-4ca3-a285-3f807c3e0921.svg" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -112,28 +56,9 @@ you can find me on github blog or on linkedin<br>
       </a>
       <br>ARCore
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191901434-a4941b82-3edf-4a56-af3a-5d9e2baf42a9.png" width="48" height="48" alt="Voxel" />
-      </a>
-      <br>VoxEdit
-      <br>MagicaVoxel
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191899997-e7509447-caa2-4901-8170-c895788f9045.svg" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191780377-30a05728-733c-4b48-ada1-777d7b322c87.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/105025978/192743325-bdfa0393-dcfe-4065-961c-5045d2d6c0cb.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
