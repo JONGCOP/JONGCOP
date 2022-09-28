@@ -12,7 +12,9 @@ you can find me on github blog or on linkedin<br>
 
 <p align="center">
   <a href="mailto:atoez45@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.notion.so/My_Profile-d2608ff839c144e6b4b8bc7ca5a11503"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/105025978/192720372-570813fe-47d2-436f-aab0-c3c259e71ac6.png"></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCl8VdIgDf6ym-TSLcGaH4AA"><img width="32px" alt="YouTube" title="YouTube" src="https://user-images.githubusercontent.com/105025978/192722988-8bbbbd5a-0cbb-409c-af81-7b0656d97d45.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
