@@ -15,7 +15,7 @@ you can find me on github blog or on linkedin<br>
    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.notion.so/My_Profile-d2608ff839c144e6b4b8bc7ca5a11503"><img width="40px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/105025978/192720372-570813fe-47d2-436f-aab0-c3c259e71ac6.png"></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCl8VdIgDf6ym-TSLcGaH4AA"><img width="45px" alt="YouTube" title="YouTube" src="https://user-images.githubusercontent.com/105025978/192734460-2ae45894-0ee1-4019-90ab-8c8cac6262dc.png"></a>
+  <a href="https://www.youtube.com/channel/UC568Pwr9PrpRi5qIuQRBgMA"><img width="45px" alt="YouTube" title="YouTube" src="https://user-images.githubusercontent.com/105025978/192734460-2ae45894-0ee1-4019-90ab-8c8cac6262dc.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
