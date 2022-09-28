@@ -4,10 +4,12 @@
 style="width: 1100px; height: 500px;"> </div>
 
 ---
-
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-This is SeungBin Nam and I'm Unity Developer & Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
-I like to learn and I like to try new things<br>
+<div align="center">
+  # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</div>
+출처: https://byul91oh.tistory.com/213 [개꼬 [: 개발하는 꼬바리]:티스토리]
+Hello, I'm Jong-hyun Sung, a game developer from Republic of Korea.<br>
+My goal is to provide fun content to people.<br>
 But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
 you can find me on github blog or on linkedin<br>
 
