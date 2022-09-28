@@ -22,19 +22,19 @@ you can find me on github blog or on linkedin<br>
 
 ---
 
-# Technology Stacks
+# Technology & Tool Stacks
 
 <table align=center>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/105025978/192744022-50d4892a-95c5-4d75-a814-626631120b17.png" width="48" height="48" alt="C" />
+        <img src="https://user-images.githubusercontent.com/105025978/192747795-f4190184-4fb7-47c8-978e-e1a8e2f03b74.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/105025978/192744987-814701e2-e881-4a14-9a38-4aa15dd86bd1.png" width="64" height="64" alt="C++" />
+        <img src="https://user-images.githubusercontent.com/105025978/192745972-2ea3f768-c3f9-4f5d-8081-532c87dc395a.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -63,6 +63,43 @@ you can find me on github blog or on linkedin<br>
       <br>GitHub
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192754710-d0192a8c-8ce8-4d4f-96e4-ad80be99184b.png" width="48" height="48" alt="VS" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192756138-c623283a-b2e7-4b81-bee0-12454e587260.png" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192756429-7abf8113-32e2-4a25-b5c7-83b115208808.png" width="48" height="48" alt="SourceTree" />
+      </a>
+      <br>SourceTree
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192757130-a0538761-5221-4b1b-810e-a561d1ad56dd.png" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192757809-66c0ab9b-81c1-44dc-8fd7-277eaf0122a8.png" width="48" height="48" alt="PremierPro" />
+      </a>
+      <br>Adobe&nbsp;PremierPro
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025978/192757901-8ee07d3a-b109-4c28-9472-896a5c347d24.png" width="48" height="48" alt="AfterEffect" />
+      </a>
+      <br>Adobe&nbsp;AfterEffect
+    </td>
 </table>
 
 ---
@@ -89,3 +126,5 @@ you can find me on github blog or on linkedin<br>
 
 ---
 </div>
+
+---
