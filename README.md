@@ -8,7 +8,7 @@ style="width: 1100px; height: 500px;"> </div>
 Hello, I'm Jong-hyun Sung, a game developer and Contents Creator from Republic of Korea.<br>
 My goal is to provide fun content to people.<br>
 I prefer to work happily.<br>
-You can contact me from the information below.<br>
+You can check me in the information below.<br>
 
 <p align="center">
   <a href="mailto:atoez45@gmail.com"><img width="40px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
